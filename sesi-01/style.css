@@ -1,0 +1,11 @@
+#title {
+    font-size: 32px;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-green {
+    color: green;
+}
